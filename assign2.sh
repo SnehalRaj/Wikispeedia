@@ -1,0 +1,11 @@
+python3 Q1.py
+python3 Q2.py
+python3 Q3.py
+python3 Q4.py
+python3 Q5.py
+python3 Q6.py
+python3 Q7.py
+python3 Q8.py
+python3 Q9.py
+python3 Q10.py
+python3 Q11.py
